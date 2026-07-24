@@ -1,3 +1,4 @@
+<img width="1917" height="1078" alt="Screenshot 2026-07-24 091933" src="https://github.com/user-attachments/assets/650ded68-ef00-4d4c-b426-028b0336428c" />
 # Ex.No: 4  Implementation of Kinematic movement -seek and Flee behavior in Unity
 ### DATE:                                                                            
 ### REGISTER NUMBER : 
@@ -82,6 +83,7 @@ public class fleeScript : MonoBehaviour
 ```
 ### Output:
 
+<img width="1917" height="1078" alt="Screenshot 2026-07-24 091933" src="https://github.com/user-attachments/assets/774ff403-3a9d-4f73-baf1-123988baf78c" />
 
 
 
