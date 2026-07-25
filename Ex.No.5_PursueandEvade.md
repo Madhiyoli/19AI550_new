@@ -109,8 +109,7 @@ public class Pursuer: MonoBehaviour
     
 ```
 ### Output:
-
-<img width="1917" height="1078" alt="Screenshot 2026-07-25 120058" src="https://github.com/user-attachments/assets/308ade15-041e-4aee-a219-e00e565dac4e" />
+<img width="1917" height="1078" alt="Screenshot 2026-07-25 120058" src="https://github.com/user-attachments/assets/1cee1df7-ca6c-4cbb-85b7-3d53160f6ad8" />
 
 
 
