@@ -1,3 +1,5 @@
+<img width="1917" height="1078" alt="Screenshot 2026-07-25 120058" src="https://github.com/user-attachments/assets/79c35b2c-a6c8-47fb-ae7a-df4072f0627f" />
+<img width="1917" height="1078" alt="Screenshot 2026-07-25 120058" src="https://github.com/user-attachments/assets/3ee60628-ce32-473a-94fe-6b99ba920207" />
 # Ex.No: 5  Implementation of Steering behaviour-Pursue and Evade in Unity
 ### DATE:                                                                            
 ### REGISTER NUMBER : 
@@ -108,10 +110,7 @@ public class Pursuer: MonoBehaviour
 ```
 ### Output:
 
-
-
-
-
+<img width="1917" height="1078" alt="Screenshot 2026-07-25 120058" src="https://github.com/user-attachments/assets/24549204-d12c-4f44-bb13-6f5cbe0de76d" />
 
 
 
