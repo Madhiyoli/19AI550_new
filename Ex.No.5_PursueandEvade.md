@@ -108,9 +108,7 @@ public class Pursuer: MonoBehaviour
 13. Stop the program
     
 ```
-### Output:
-
-
+## Output:
 <img width="1917" height="1078" alt="Screenshot 2026-07-25 120058" src="https://github.com/user-attachments/assets/3d083fde-e7b2-450f-9a27-7fccdf092d62" />
 
 
